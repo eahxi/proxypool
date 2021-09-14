@@ -28,6 +28,11 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    
+# 顺丰资源论坛抓取
+- type: clash
+  options:
+    url: https://www.sfzy888.com/
 
 # 某个网站抓取
 - type: web-freessrxyz
